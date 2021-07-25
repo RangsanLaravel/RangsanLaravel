@@ -11,7 +11,10 @@ I'm Rangsan from Thailand, and I do content on Database Design and Development. 
 * Python Django
 * Sql Oracle Mysql SqlServer
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RangsanLaravel)](https://github.com/RangsanLaravel/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RangsanLaravel&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RangsanLaravel&layout=compact&show_icons=true&theme=radical)
+
 
 <h1 align="center">Hi 👋, I'm Rangsan</h1>
 <h3 align="center">Content on Database Design and Development</h3>
