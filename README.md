@@ -41,7 +41,7 @@ I'm Rangsan from Thailand, and I do content on Database Design and Development. 
 * C# .net framwork .net core
 * Golang Gingonic
 * Python Django
-* Sql Oracle Mysql SqlServer
+* Oracle Mysql SqlServer Sqlite
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RangsanLaravel&show_icons=true&theme=radical)
 
